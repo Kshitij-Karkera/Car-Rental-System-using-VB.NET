@@ -42,4 +42,4 @@ The Car Rental System is a desktop application developed in VB.NET, integrated w
 
 **Borrowed Car Details**
 
-![Picture8](./screenshots/Picture.png)
+![Picture8](./screenshots/Picture8.png)
